@@ -6,8 +6,6 @@ Some experimental video transitions using Curtain.js and shaders.
 
 [Article on Codrops](https://tympanus.net/codrops/?p=51333)
 
-[Demo](https://github.com/akella/videoTransitions/)
-
 
 ## Installation
 
@@ -30,10 +28,6 @@ After that the demo should be available on http://localhost:1234.
 - [Curtains.js](https://www.curtainsjs.com/) by [Martin Laxenaire](https://twitter.com/webdesign_ml)
 
 ## Misc
-
-Follow Yuriy: [Twitter](http://twitter.com/akella), [GitHub](https://github.com/akella) 
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
 ## License
 [MIT](LICENSE)
